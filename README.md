@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Sarah! 
-🔭 I'm currently developing my skills with Code Nation
-🌱 Java Script, HTML, CSS.. 
-📫 You can reach me via github/sarahnwright
-😄 Give me a little more time and hopefully I'll add to my content!
+-I'm Sarah! 
+-🔭 I'm currently developing my skills with Code Nation
+-🌱 Java Script, HTML, CSS.. 
+-📫 You can reach me via github/sarahnwright
+-😄 Give me a little more time and hopefully I'll add to my content!
